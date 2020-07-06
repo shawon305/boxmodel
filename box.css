@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+Body 
+{
+	background-image: url("images/scribblestars.jpg"); 
+	background-repeat: repeat;
+	background-size: 100px;
+}
+#wrapper {
+	width: 960;
+	align-content: center;
+	
+}
+.header {   
+  	background-color: palevioletred;
+	font-family: 'Dancing Script', cursive;
+	height: 200px;
+	font-size: 10em;
+	text-align: center;
+	margin-top: 20px;
+	}
+.emptybox {
+	background-color: aqua;
+	width: 100%;
+	height: 150px;
+}
+nav {
+	background-color: darkcyan;
+	width: 250px;
+	padding:10px;
+	text-align: left;
+	float: left;
+	margin-right: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+}
+section {
+	width: 550px;
+	padding:10px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	text-align: left;
+	float: right;
+	background-color: blueviolet;
+}
+footer {
+	height: 30px;
+	clear: both;
+	background-color: grey;
+	text-align: center;
+}
