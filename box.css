@@ -9,15 +9,16 @@ Body
 }
 #wrapper {
 	width: 960;
-	align-content: center;
+	text-align: center;
 	
 }
 .header {   
-  	background-color: palevioletred;
+  	background-color: mediumpurple;
 	font-family: 'Dancing Script', cursive;
 	height: 200px;
 	font-size: 10em;
 	text-align: center;
+	border-radius: 5px;
 	margin-top: 20px;
 	}
 .emptybox {
@@ -26,7 +27,7 @@ Body
 	height: 150px;
 }
 nav {
-	background-color: darkcyan;
+	background-color: blueviolet;
 	width: 250px;
 	padding:10px;
 	text-align: left;
